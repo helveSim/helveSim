@@ -1,0 +1,1 @@
+HELVES” (Highway ELectric VEhicles Simulator) is a Python-based simulator that allows modeling the flow of electric vehicles circulating on a highway, it allows to evaluate the impact of electric vehicles for different penetration level, allocation strategies, charging rates and capacities of the charging stations. 
